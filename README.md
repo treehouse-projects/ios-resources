@@ -35,6 +35,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * [Natasha the Robot](https://www.natashatherobot.com) A solid, easily digestible blog full of overviews of various Swift and iOS features.
 * [Ray Wenderlich](https://www.raywenderlich.com) Perhaps the premier tutorial site for all things Swift, iOS, MacOS, and game development.
 * [Andrew Bancroft](http://www.andrewcbancroft.com) A great resource site for Swift and other programming languages
+* [KrakenDev](https://krakendev.io) Like Natasha, KrakenDev features a lot of readable and enjoyable material on a wide set of topics regarding iOS features.
+* [NSHipster](http://nshipster.com) Their headline describes it best: "...a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly."
 
 ### Slack
 
