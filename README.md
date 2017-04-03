@@ -37,6 +37,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * [Andrew Bancroft](http://www.andrewcbancroft.com) A great resource site for Swift and other programming languages
 * [KrakenDev](https://krakendev.io) Like Natasha, KrakenDev features a lot of readable and enjoyable material on a wide set of topics regarding iOS features.
 * [NSHipster](http://nshipster.com) Their headline describes it best: "...a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly."
+* [Hacking with Swift](https://www.hackingwithswift.com) A range of books that help you build your skills from beginner through to advanced. Learn to code for iOS, MacOS and Server Side Swift with IMB's Kitura.
 
 ### Slack
 
