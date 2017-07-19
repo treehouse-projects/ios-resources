@@ -20,7 +20,9 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### iOS
 
-*
+* [Carthage](https://github.com/Carthage/Carthage) A popular dependency management tool for iOS! Treehouse has a course on this too! You can find it [here](https://teamtreehouse.com/library/dependency-management-with-carthage-for-ios)
+* [CocoaPods](https://cocoapods.org) Like Carthage another popular dependency management tool for iOS! Treehouse has a course on CocoaPods too! You can find it [here](https://teamtreehouse.com/library/dependency-management-with-cocoapods-for-ios)
+  * [CocoaPods Deintegrate](https://github.com/CocoaPods/cocoapods-deintegrate) A helpful tool to remove all traces of CocoaPods from your xcode project. It will save you a lot of time!
 
 ### Objective-C
 
