@@ -23,6 +23,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * [Carthage](https://github.com/Carthage/Carthage) A popular dependency management tool for iOS! Treehouse has a course on this too! You can find it [here](https://teamtreehouse.com/library/dependency-management-with-carthage-for-ios)
 * [CocoaPods](https://cocoapods.org) Like Carthage another popular dependency management tool for iOS! Treehouse has a course on CocoaPods too! You can find it [here](https://teamtreehouse.com/library/dependency-management-with-cocoapods-for-ios)
   * [CocoaPods Deintegrate](https://github.com/CocoaPods/cocoapods-deintegrate) A helpful tool to remove all traces of CocoaPods from your xcode project. It will save you a lot of time!
+* [Alamofire](http://alamofire.org/) The Alamofire Software Foundation is a non-profit with the purpose of promoting, supporting, and advancing its open-source software projects. Alamofire created a lot of helpful libraries for both Objective-C and Swift.
 
 ### Objective-C
 
@@ -31,6 +32,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### Swift
 
 * [Vapor](https://vapor.codes) One of two popular server-side web frameworks powered by Swift!
+* [SwiftyJSON](https://github.com/SwiftyJSON) SwiftyJSON is a easy to use JSON framework for Swift. It also comes with an extension for [Alamofire](http://alamofire.org) to get easy JSONs out of web requests.
 
 ### General
 
