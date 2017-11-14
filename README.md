@@ -43,7 +43,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * [NSHipster](http://nshipster.com) Their headline describes it best: "...a journal of the overlooked bits in Objective-C, Swift, and Cocoa. Updated weekly."
 * [Hacking with Swift](https://www.hackingwithswift.com) A range of books that help you build your skills from beginner through to advanced. Learn to code for iOS, MacOS and Server Side Swift with IMB's Kitura.
 * [WWDC 2017 Samples](https://github.com/jfahrenkrug/WWDC-Downloader) All WWDC 2017 Sample code in 1 place for easy download.
-
+* [Flight rules for git](https://github.com/k88hudson/git-flight-rules) Quick answers to problems and tasks with git
 ### Slack
 
 * [iOS Developers](https://ios-developers.io) Very active community of 12,000+ iOS developers. There's even a #treehouse channel, as well as dedicated channels for learning, career advice, and job leads.
